@@ -1,0 +1,14 @@
+{
+  "name": "personal-budget",
+  "version": "1.0.0",
+  "description": "app to help user calculate their personal budget",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Omar ElDwary",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
